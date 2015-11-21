@@ -33,5 +33,5 @@ bit to make it homogeneous again.
  - If it is a cold day, it will be very hard, then you need to scratch it with your toothbrush a bit more than usual.
 
 ## Footnotes
- 1.<a name="dolomite"> </a> https://en.wikipedia.org/wiki/Dolomite
- 2.<a name="xlytol"> </a> https://en.wikipedia.org/wiki/Xylitol
+ 1. <a name="dolomite"></a> https://en.wikipedia.org/wiki/Dolomite
+ 2. <a name="xlytol"></a> https://en.wikipedia.org/wiki/Xylitol

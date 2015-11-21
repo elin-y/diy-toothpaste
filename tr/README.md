@@ -27,7 +27,7 @@ temperature.
 
 ## Recommendations
 
- - Brush your teeth twice a day, mornings and evenings before going to bed.
+ - Brush your teeth twice a day, mornings and before going to bed.
  - If it is a warm day, coconut oil will be fluid and the other ingredients can precipitate. If so, you should stir it a
 bit to make it homogeneous again.
  - If it is a cold day, it will be very hard, then you need to scratch it a bit more than usual.

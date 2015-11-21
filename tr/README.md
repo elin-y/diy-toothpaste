@@ -9,7 +9,7 @@ This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no
  - 1 tbsp. sea salt
  - 1 tbsp. calcium magnesium powder (dolomite)
  - 1 tbsp. xylitol
- - 12-15 drops peppermint essential oil
+ - 12-15 drops of peppermint essential oil
  
 ## Directions
 

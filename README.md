@@ -4,12 +4,12 @@ This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no
 
 ## Ingredients
 
- - 25g Coconut oil
- - 1 tbsp. Baking powder
- - 1 tbsp. Sea salt
- - 1 tbsp. Calcium Magnesium powder (Dolomite)
- - 1 tbsp. Xylit
- - 12-15 drops Peppermint essential oil
+ - 25g coconut oil
+ - 1 tbsp. baking powder
+ - 1 tbsp. sea salt
+ - 1 tbsp. calcium magnesium powder (dolomite)
+ - 1 tbsp. xylit
+ - 12-15 drops peppermint essential oil
  
 ## Directions
 

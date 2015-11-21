@@ -1,4 +1,4 @@
-# DIY Toothpaste
+# Selbstgemachte Zahnpasta
 
 This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no fluoride.
 

@@ -7,8 +7,8 @@ Diese selbstgemachte Zahnpasta ist remineralisierend und enthält keine Chemikal
  - 25 g. Kokosfett
  - 1 EL Backpulver
  - 1 EL Meersalz
- - 1 EL Kalzium-Magnesium-Pulver (Dolomit<sup>[[1]](dolomite)</sup>)
- - 1 EL Xylitol<sup>[[2]](xlytol)</sup>
+ - 1 EL Kalzium-Magnesium-Pulver (Dolomit<sup>[[1]](#dolomite)</sup>)
+ - 1 EL Xylitol<sup>[[2]](#xlytol)</sup>
  - 12-15 Tropfen ätherisches Pfefferminzöl
  
 ## Anleitung

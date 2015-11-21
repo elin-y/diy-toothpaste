@@ -8,13 +8,13 @@ Diese selbstgemachte Zahnpasta ist remineralisierend und enthält keine Chemikal
  - 1 EL Backpulver
  - 1 EL Meersalz
  - 1 EL Kalzium-Magnesium-Pulver (Dolomit)
- - 1 EL Xylit
+ - 1 EL Xylitol
  - 12-15 Tropfen ätherisches Pfefferminzöl
  
 ## Anleitung
 
  1. Kokosfett mit Hitze schmelzen lassen. Es schmilzt über 26 °C.
- 2. Alle pulverige Zutaten zusammenmischen (Backpulver, Meersalz, Dolomit und Xylit) in einer separaten Schale.
+ 2. Alle pulverige Zutaten zusammenmischen (Backpulver, Meersalz, Dolomit und Xylitol) in einer separaten Schale.
  3. Die Pulvermischung in Kokosfett mischen und rühren bis es ziemlich homogen wird.
  4. Schließlich 12 bis 15 Tropfen ätherisches Pfefferminzöl in die Mischung eingeben.
  5. Kontinuierlich aber langsam einrühren bis es eine pastige Textur bekommt. Es kann 5 bis 10 Minuten dauern, je nach

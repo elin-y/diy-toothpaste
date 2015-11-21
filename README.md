@@ -13,7 +13,7 @@ This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no
  
 ## Directions
 
- 1. Melt coconut oil giving it a bit heat. It melts over 26 °C.
+ 1. Melt coconut oil heating it a bit. It melts over 26 °C.
  2. Mix all powdery ingredients (baking powder, sea salt, dolomite and xylit) in a separate cup.
  3. Put the powder-mix into coconut oil and stir until it gets quite homogeneous.
  4. Lastly put 12 to 15 drops of peppermint essential oil into the mix.

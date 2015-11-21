@@ -1,31 +1,31 @@
 # Selbstgemachte Zahnpasta
 
-This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no fluoride.
+Diese selbstgemachte Zahnpasta ist remineralisierend und enthält keine Chemikalien, kein SLS, kein fluoride.
 
-## Ingredients
+## Zutaten
 
- - 25g coconut oil
- - 1 tbsp. baking powder
- - 1 tbsp. sea salt
- - 1 tbsp. calcium magnesium powder (dolomite)
- - 1 tbsp. xylit
- - 12-15 drops peppermint essential oil
+ - 25 g. Kokosfett
+ - 1 EL Backpulver
+ - 1 EL Meersalz
+ - 1 EL Kalzium-Magnesium-Pulver (Dolomit)
+ - 1 EL Xylit
+ - 12-15 Tropfen ätherisches Pfefferminzöl
  
-## Directions
+## Anleitung
 
- 1. Melt coconut oil giving it a bit heat. It melts over 26 °C.
- 2. Mix all powdery ingredients (baking powder, sea salt, dolomite and xylit) in a separate cup.
- 3. Put the powder-mix into coconut oil and stir until it gets quite homogeneous.
- 4. Lastly put 12 to 15 drops of peppermint essential oil into the mix.
- 5. Stir continuously but slowly until it gets a pasty texture. It can take 5-10 minutes depending on the room 
-temperature.
- 6. Put the paste in a closed container and you are good to go.
+ 1. Kokosfett mit Hitze schmelzen lassen. Es schmilzt über 26 °C.
+ 2. Alle pulverige Zutaten zusammenmischen (Backpulver, Meersalz, Dolomit und Xylit) in einer separaten Schale.
+ 3. Die Pulvermischung in Kokosfett mischen und rühren bis es ziemlich homogen wird.
+ 4. Schließlich 12 bis 15 Tropfen ätherisches Pfefferminzöl in die Mischung eingeben.
+ 5. Kontinuierlich aber langsam einrühren bis es eine pastige Textur bekommt. Es kann 5 bis 10 Minuten dauern, je nach
+Zimmertemperatur.
+ 6. Die Paste in einem geschlossenen Behälter einfüllen und fertig.
  
-## Usage
+## Verwendung
  
  - Scratch the paste with your toothbrush and brush your teeth.
 
-## Recommendations
+## Empfehlungen
 
  - Brush your teeth twice a day, mornings and evenings before going to bed.
  - If it is a warm day, coconut oil will be fluid and the other ingredients can precipitate. If so, you should stir it a

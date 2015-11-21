@@ -19,11 +19,11 @@ Diese selbstgemachte Zahnpasta ist remineralisierend und enthält keine Chemikal
  4. Schließlich 12 bis 15 Tropfen ätherisches Pfefferminzöl in die Mischung eingeben.
  5. Kontinuierlich aber langsam einrühren bis es eine pastige Textur bekommt. Es kann 5 bis 10 Minuten dauern, je nach
 Zimmertemperatur.
- 6. Die Paste in einem geschlossenen Behälter einfüllen und fertig.
+ 6. Die Zahnpaste in einem geschlossenen Behälter einfüllen und fertig.
  
 ## Verwendung
  
- - Scratch the paste with your toothbrush and brush your teeth.
+ - Scratch the toothpaste with your toothbrush and brush your teeth.
 
 ## Empfehlungen
 

@@ -19,11 +19,11 @@ This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no
  4. Lastly put 12 to 15 drops of peppermint essential oil into the mix.
  5. Stir continuously but slowly until it gets a pasty texture. It can take 5-10 minutes depending on the room 
 temperature.
- 6. Put the paste in a closed container and you are good to go.
+ 6. Put the toothpaste in a closed container and you are good to go.
  
 ## Usage
  
- - Scratch the paste with your toothbrush and brush your teeth.
+ - Scratch the toothpaste with your toothbrush and brush your teeth.
 
 ## Recommendations
 

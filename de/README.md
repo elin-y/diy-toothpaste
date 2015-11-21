@@ -7,8 +7,8 @@ Diese selbstgemachte Zahnpasta ist remineralisierend und enthält keine Chemikal
  - 25 g. Kokosfett
  - 1 EL Backpulver
  - 1 EL Meersalz
- - 1 EL Kalzium-Magnesium-Pulver (Dolomit)
- - 1 EL Xylitol
+ - 1 EL Kalzium-Magnesium-Pulver (Dolomit<sup>[[1]](dolomite)</sup>)
+ - 1 EL Xylitol<sup>[[2]](xlytol)</sup>
  - 12-15 Tropfen ätherisches Pfefferminzöl
  
 ## Anleitung
@@ -31,3 +31,7 @@ Zimmertemperatur.
  - If it is a warm day, coconut oil will be fluid and the other ingredients can precipitate. If so, you should stir it a
 bit to make it homogeneous again.
  - If it is a cold day, it will be very hard, then you need to scratch it with your toothbrush a bit more than usual.
+
+## Footnotes
+ 1.<a name="dolomite"> </a> https://en.wikipedia.org/wiki/Dolomite
+ 2.<a name="xlytol"> </a> https://en.wikipedia.org/wiki/Xylitol

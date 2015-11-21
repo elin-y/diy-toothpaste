@@ -7,8 +7,8 @@ This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no
  - 25 g. coconut oil
  - 1 tbsp. baking powder
  - 1 tbsp. sea salt
- - 1 tbsp. calcium magnesium powder (dolomite)
- - 1 tbsp. xylitol
+ - 1 tbsp. calcium magnesium powder (dolomite<sup>[[1]](dolomite)</sup>)
+ - 1 tbsp. xylitol<sup>[[2]](xlytol)</sup>
  - 12-15 drops of peppermint essential oil
  
 ## Directions
@@ -31,3 +31,7 @@ temperature.
  - If it is a warm day, coconut oil will be fluid and the other ingredients can precipitate. If so, you should stir it a
 bit to make it homogeneous again.
  - If it is a cold day, it will be very hard, then you need to scratch it with your toothbrush a bit more than usual.
+
+## Footnotes
+ 1.<a name="dolomite"> </a> https://en.wikipedia.org/wiki/Dolomite
+ 2.<a name="xlytol"> </a> https://en.wikipedia.org/wiki/Xylitol

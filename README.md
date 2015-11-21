@@ -4,7 +4,7 @@ This homemade toothpaste is remineralizing and contains no chemicals, no SLS, no
 
 ## Ingredients
 
- - 25g coconut oil
+ - 25 g. coconut oil
  - 1 tbsp. baking powder
  - 1 tbsp. sea salt
  - 1 tbsp. calcium magnesium powder (dolomite)

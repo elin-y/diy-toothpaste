@@ -7,11 +7,11 @@ Bu ev yapımı diş macunu dişlerin tekrar mineralize olmalarına yardımcı ol
  - 25 g. hindistan cevizi yağı
  - 1 yk. yemek sodası
  - 1 yk. deniz tuzu
- - 1 yk. calcium magnesium powder (dolomite<sup>[[1]](#dolomite)</sup>)
- - 1 yk. xylitol<sup>[[2]](#xlytol)</sup>
- - 12-15 drops of peppermint essential oil
+ - 1 yk. kalsiyum magnezyum tozu (Dolomit<sup>[[1]](#dolomite)</sup>)
+ - 1 yk. ksilitol<sup>[[2]](#xlytol)</sup>
+ - 12-15 damla nane yağı
  
-## Directions
+## Yapılışı
 
  1. Melt coconut oil heating it a bit. It melts over 26 °C.
  2. Mix all powdery ingredients (baking powder, sea salt, dolomite and xylitol) in a separate cup.
